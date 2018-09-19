@@ -1,0 +1,4 @@
+com/swagger/offline/controller/UserController.class
+com/swagger/offline/model/User.class
+com/swagger/offline/config/SwaggerConfiguration.class
+com/swagger/offline/App.class

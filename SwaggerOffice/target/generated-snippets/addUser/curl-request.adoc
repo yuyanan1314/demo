@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/user/addUser' -i -X POST -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json' -d '{"address":"河南郑州","age":25,"id":123456,"name":"FLY","sex":"男"}'
+----

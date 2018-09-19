@@ -1,0 +1,15 @@
+== Definitions
+=== User
+:hardbreaks:
+用户信息描述
+
+[options="header"]
+|===
+|Name|Description|Required|Schema|Default
+|address|家庭住址|false|string|
+|age|年龄|false|integer (int32)|
+|id|证件号|false|integer (int32)|
+|name|姓名|false|string|
+|sex|性别|false|string|
+|===
+

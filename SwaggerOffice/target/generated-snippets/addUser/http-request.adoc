@@ -1,0 +1,10 @@
+[source,http,options="nowrap"]
+----
+POST /user/addUser HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Accept: application/json
+Host: localhost:8080
+Content-Length: 72
+
+{"address":"河南郑州","age":25,"id":123456,"name":"FLY","sex":"男"}
+----

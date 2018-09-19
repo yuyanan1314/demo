@@ -1,0 +1,20 @@
+= 用户信息API文档
+
+== Overview
+这里除了查看接口功能外，还提供了调试测试功能
+
+=== Version information
+Version: 1.0
+
+=== Contact information
+Contact: 王延飞
+
+=== URI scheme
+Host: localhost:8080
+BasePath: /
+
+=== Tags
+
+* UserApi: 用户基本信息操作API
+
+

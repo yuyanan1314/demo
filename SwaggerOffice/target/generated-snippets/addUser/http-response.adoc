@@ -1,0 +1,14 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 98
+
+{
+  "id" : 123456,
+  "name" : "FLY",
+  "age" : 25,
+  "sex" : "男",
+  "address" : "河南郑州"
+}
+----

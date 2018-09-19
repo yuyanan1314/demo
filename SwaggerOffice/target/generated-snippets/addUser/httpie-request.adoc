@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ echo '{"address":"河南郑州","age":25,"id":123456,"name":"FLY","sex":"男"}' | http POST 'http://localhost:8080/user/addUser' 'Content-Type:application/json;charset=UTF-8' 'Accept:application/json'
+----
